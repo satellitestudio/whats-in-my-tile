@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 1rem;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.dropZone {
+  border: 3px dashed grey;
+  color: grey;
+  border-radius: 6px;
+  padding: 1rem;
+  cursor: pointer;
 }
