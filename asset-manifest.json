@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/whats-in-my-tile/build/static/css/main.3450dd3a.chunk.css",
-    "main.js": "/whats-in-my-tile/build/static/js/main.98f03043.chunk.js",
-    "main.js.map": "/whats-in-my-tile/build/static/js/main.98f03043.chunk.js.map",
-    "runtime-main.js": "/whats-in-my-tile/build/static/js/runtime-main.b023fe62.js",
-    "runtime-main.js.map": "/whats-in-my-tile/build/static/js/runtime-main.b023fe62.js.map",
-    "static/js/2.f500f20d.chunk.js": "/whats-in-my-tile/build/static/js/2.f500f20d.chunk.js",
-    "static/js/2.f500f20d.chunk.js.map": "/whats-in-my-tile/build/static/js/2.f500f20d.chunk.js.map",
-    "index.html": "/whats-in-my-tile/build/index.html",
-    "precache-manifest.fb800e04f7731dfd3454f85131aa10c7.js": "/whats-in-my-tile/build/precache-manifest.fb800e04f7731dfd3454f85131aa10c7.js",
-    "service-worker.js": "/whats-in-my-tile/build/service-worker.js",
-    "static/css/main.3450dd3a.chunk.css.map": "/whats-in-my-tile/build/static/css/main.3450dd3a.chunk.css.map",
-    "static/js/2.f500f20d.chunk.js.LICENSE.txt": "/whats-in-my-tile/build/static/js/2.f500f20d.chunk.js.LICENSE.txt"
+    "main.css": "/whats-in-my-tile/static/css/main.3450dd3a.chunk.css",
+    "main.js": "/whats-in-my-tile/static/js/main.b183e4c2.chunk.js",
+    "main.js.map": "/whats-in-my-tile/static/js/main.b183e4c2.chunk.js.map",
+    "runtime-main.js": "/whats-in-my-tile/static/js/runtime-main.c866edc0.js",
+    "runtime-main.js.map": "/whats-in-my-tile/static/js/runtime-main.c866edc0.js.map",
+    "static/js/2.f31e6e22.chunk.js": "/whats-in-my-tile/static/js/2.f31e6e22.chunk.js",
+    "static/js/2.f31e6e22.chunk.js.map": "/whats-in-my-tile/static/js/2.f31e6e22.chunk.js.map",
+    "index.html": "/whats-in-my-tile/index.html",
+    "precache-manifest.ffba078419199dda3ccbcee1551bf21f.js": "/whats-in-my-tile/precache-manifest.ffba078419199dda3ccbcee1551bf21f.js",
+    "service-worker.js": "/whats-in-my-tile/service-worker.js",
+    "static/css/main.3450dd3a.chunk.css.map": "/whats-in-my-tile/static/css/main.3450dd3a.chunk.css.map",
+    "static/js/2.f31e6e22.chunk.js.LICENSE.txt": "/whats-in-my-tile/static/js/2.f31e6e22.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b023fe62.js",
-    "static/js/2.f500f20d.chunk.js",
+    "static/js/runtime-main.c866edc0.js",
+    "static/js/2.f31e6e22.chunk.js",
     "static/css/main.3450dd3a.chunk.css",
-    "static/js/main.98f03043.chunk.js"
+    "static/js/main.b183e4c2.chunk.js"
   ]
 }
