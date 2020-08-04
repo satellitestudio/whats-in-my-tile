@@ -1,5 +1,6 @@
 {
   "name": "whats-in-my-tile",
+  "homepage": "https://satellitestud.io/whats-in-my-tile/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
